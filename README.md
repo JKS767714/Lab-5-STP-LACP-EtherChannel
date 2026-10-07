@@ -114,7 +114,8 @@ The alternate path became the new forwarding path to the Root Bridge.
 
 The path cost also changed from `19` to `38` because traffic now traveled through an additional switch.
 
-![STP Failover](images/Lab5-STP-Failover.png)
+
+![STP Failover](Lab-5-Etherchannel-Failover.png)
 
 ---
 
