@@ -23,7 +23,8 @@ The topology consists of three Cisco 2960 switches connected in a redundant tria
 
 The redundant topology provides multiple Layer 2 paths while STP prevents switching loops.
 
-![Lab 5 Network Topology](images/Lab-5-STP-Topology.png)
+
+![Lab 5 Network Topology](images/Lab-5-Network-Topology.png)
 
 ---
 
