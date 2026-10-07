@@ -59,6 +59,7 @@ show spanning-tree
 The effective VLAN 1 priority appeared as `4097` because the VLAN ID is included as the extended system ID.
 
 ![STP Root Bridge](images/Lab5-STP-Root-Bridge.png)
+![STP Root Brideg](images/Lab-5-Root-Bridge.png)
 
 ---
 
